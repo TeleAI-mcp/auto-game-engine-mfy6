@@ -1,2 +1,3 @@
-# auto-game-engine-mfy6
+# Auto Game Engine Mfy6
+
 A game engine project for modern development workflows.
